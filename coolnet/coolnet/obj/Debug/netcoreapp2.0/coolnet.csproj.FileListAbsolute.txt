@@ -1,0 +1,9 @@
+D:\git\coolnet\coolnet\coolnet\bin\Debug\netcoreapp2.0\coolnet.deps.json
+D:\git\coolnet\coolnet\coolnet\bin\Debug\netcoreapp2.0\coolnet.dll
+D:\git\coolnet\coolnet\coolnet\bin\Debug\netcoreapp2.0\coolnet.pdb
+D:\git\coolnet\coolnet\coolnet\obj\Debug\netcoreapp2.0\coolnet.csprojResolveAssemblyReference.cache
+D:\git\coolnet\coolnet\coolnet\obj\Debug\netcoreapp2.0\coolnet.csproj.CoreCompileInputs.cache
+D:\git\coolnet\coolnet\coolnet\obj\Debug\netcoreapp2.0\coolnet.AssemblyInfoInputs.cache
+D:\git\coolnet\coolnet\coolnet\obj\Debug\netcoreapp2.0\coolnet.AssemblyInfo.cs
+D:\git\coolnet\coolnet\coolnet\obj\Debug\netcoreapp2.0\coolnet.dll
+D:\git\coolnet\coolnet\coolnet\obj\Debug\netcoreapp2.0\coolnet.pdb

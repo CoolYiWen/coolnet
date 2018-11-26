@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CoolNet", "coolnet\CoolNet.csproj", "{DCE71094-7DC9-475E-9835-CA044D5501B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestApp", "TestApp\TestApp.csproj", "{C5E6CE30-BC28-4752-A7BD-4F83B7CA1DBE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCE71094-7DC9-475E-9835-CA044D5501B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCE71094-7DC9-475E-9835-CA044D5501B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCE71094-7DC9-475E-9835-CA044D5501B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCE71094-7DC9-475E-9835-CA044D5501B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5E6CE30-BC28-4752-A7BD-4F83B7CA1DBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5E6CE30-BC28-4752-A7BD-4F83B7CA1DBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5E6CE30-BC28-4752-A7BD-4F83B7CA1DBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5E6CE30-BC28-4752-A7BD-4F83B7CA1DBE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B1B154A1-733C-455E-AE48-9CAE87ABBAE4}
+	EndGlobalSection
+EndGlobal
